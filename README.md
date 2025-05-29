@@ -37,7 +37,7 @@
 <p align="center">
   <b>✈️ AIAA Journal</b>:  
   <a href="https://arc.aiaa.org/doi/10.2514/1.J063929">
-    Reduced-order Modeling of Buffet Oscillations
+    Identifying Buffet Oscillations Using Sliding-Window Dynamic Mode Decomposition (Reduced-order Modeling of Buffet Oscillations)
   </a>  
   <br>
   <i>Advanced DMD techniques for aerospace buffet detection</i>
@@ -55,7 +55,7 @@
 <p align="center">
   <b>🌊 Journal of Physical Oceanography (accepted)</b>:  
   <a href="https://arxiv.org/pdf/2311.01377">
-    Forecasting Tidal Oscillations in the Strait of Gibraltar
+    Analysis of Tidal Flows Through the Strait of Gibraltar Using Dynamic Mode Decomposition
   </a>  
   <br>
   <i>Oceanographic forecasting using data-driven methods</i>
