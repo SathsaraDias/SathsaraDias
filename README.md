@@ -83,18 +83,17 @@
 
 ## 📽 Featured Media
 
+## 📽 Featured Media
+
 <p align="center">
-  <img src="./SD_Logo_N.png" alt="Personal Logo" width="200"/>
+  <img src="./banner.png" alt="Full Banner" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="./banner.png" alt="Full Banner" width="600"/>
+  <img src="./featured_AIAA.gif" alt="AIAA Featured GIF" width="48%" style="margin-right:2%"/>
+  <img src="./featured_Gibraltar.gif" alt="Gibraltar Forecasting GIF" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="./featured_AIAA.gif" alt="AIAA Featured GIF" width="45%"/>
-  <img src="./featured_Gibraltar.gif" alt="Gibraltar Forecasting GIF" width="45%"/>
-</p>
 
 ---
 
