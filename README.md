@@ -34,10 +34,14 @@
 
 ## 📌 Featured Research
 
+### 🔬 Reduced-order Modeling
+
+---
+
 <p align="center">
   <b>✈️ AIAA Journal</b>:  
   <a href="https://arc.aiaa.org/doi/10.2514/1.J063929">
-    Identifying Buffet Oscillations Using Sliding-Window Dynamic Mode Decomposition (Reduced-order Modeling of Buffet Oscillations)
+    Reduced-order Modeling of Buffet Oscillations
   </a>  
   <br>
   <i>Advanced DMD techniques for aerospace buffet detection</i>
@@ -55,7 +59,7 @@
 <p align="center">
   <b>🌊 Journal of Physical Oceanography (accepted)</b>:  
   <a href="https://arxiv.org/pdf/2311.01377">
-    Analysis of Tidal Flows Through the Strait of Gibraltar Using Dynamic Mode Decomposition
+    Forecasting Tidal Oscillations in the Strait of Gibraltar
   </a>  
   <br>
   <i>Oceanographic forecasting using data-driven methods</i>
@@ -67,6 +71,7 @@
   </a>
   <img src="./featured_Gibraltar.gif" alt="Gibraltar Forecasting GIF" width="48%" height="250px"/>
 </p>
+
 
 
 ---
