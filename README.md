@@ -34,7 +34,10 @@
 
 ## 📌 Featured Research
 
-### 🔬 Reduced-order Modeling
+### 🔬 Reduced-order Modeling & Data-driven Analysis
+
+**Keywords:**  
+_Dynamic Mode Decomposition (DMD), Sliding-Window DMD, Koopman operator, Reduced-order modeling, Unsupervised machine learning, Aerospace flow, Oceanographic forecasting, Tidal dynamics, Transonic buffet, Internal waves, Nonlinear fluid dynamics_
 
 ---
 
@@ -71,6 +74,7 @@
   </a>
   <img src="./featured_Gibraltar.gif" alt="Gibraltar Forecasting GIF" width="48%" height="250px"/>
 </p>
+
 
 
 
