@@ -90,9 +90,10 @@
 </p>
 
 <p align="center">
-  <img src="./featured_AIAA.gif" alt="AIAA Featured GIF" width="48%" style="margin-right:2%"/>
-  <img src="./featured_Gibraltar.gif" alt="Gibraltar Forecasting GIF" width="48%"/>
+  <img src="./featured_AIAA.gif" alt="AIAA Featured GIF" width="48%" height="250px" style="margin-right:2%"/>
+  <img src="./featured_Gibraltar.gif" alt="Gibraltar Forecasting GIF" width="48%" height="250px"/>
 </p>
+
 
 
 ---
