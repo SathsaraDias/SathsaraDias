@@ -34,13 +34,31 @@
 
 ## 📌 Featured Research
 
-- ✈️ **AIAA Journal**:  
-  [Reduced-order Modeling of Buffet Oscillations](https://arc.aiaa.org/doi/10.2514/1.J063929)  
-  _Advanced DMD techniques for aerospace buffet detection_
+<p align="center">
+  <b>✈️ AIAA Journal</b>:  
+  <a href="https://arc.aiaa.org/doi/10.2514/1.J063929">
+    Reduced-order Modeling of Buffet Oscillations
+  </a>  
+  <br>
+  <i>Advanced DMD techniques for aerospace buffet detection</i>
+</p>
 
-- 🌊 **Journal of Physical Oceanography (accepted)**:  
-  [Forecasting Tidal Oscillations in the Strait of Gibraltar](https://arxiv.org/pdf/2311.01377)  
-  _Oceanographic forecasting using data-driven methods_
+<p align="center">
+  <img src="./featured_AIAA.gif" alt="AIAA Featured GIF" width="48%" height="250px" style="margin-right:2%"/>
+</p>
+
+<p align="center">
+  <b>🌊 Journal of Physical Oceanography (accepted)</b>:  
+  <a href="https://arxiv.org/pdf/2311.01377">
+    Forecasting Tidal Oscillations in the Strait of Gibraltar
+  </a>  
+  <br>
+  <i>Oceanographic forecasting using data-driven methods</i>
+</p>
+
+<p align="center">
+  <img src="./featured_Gibraltar.gif" alt="Gibraltar Forecasting GIF" width="48%" height="250px"/>
+</p>
 
 ---
 
@@ -67,7 +85,7 @@
 ## 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/SathsaraDias)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/sathsaradias/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/sathsara-dias/)  
 [![Personal Website](https://img.shields.io/badge/Website-Visit-orange?logo=hugo)](https://sathsaradias.github.io/diassl/)
 
 ---
@@ -86,12 +104,6 @@
 <p align="center">
   <img src="./banner.png" alt="Full Banner" width="100%"/>
 </p>
-
-<p align="center">
-  <img src="./featured_AIAA.gif" alt="AIAA Featured GIF" width="48%" height="250px" style="margin-right:2%"/>
-  <img src="./featured_Gibraltar.gif" alt="Gibraltar Forecasting GIF" width="48%" height="250px"/>
-</p>
-
 
 
 ---
