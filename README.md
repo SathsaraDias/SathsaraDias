@@ -44,8 +44,13 @@
 </p>
 
 <p align="center">
-  <img src="./featured_AIAA.gif" alt="AIAA Featured GIF" width="48%" height="250px" style="margin-right:2%"/>
+  <a href="https://arc.aiaa.org/doi/10.2514/1.J063929">
+    <img src="./aiaa_preview.png" alt="AIAA Paper Preview" width="48%" height="250px" style="margin-right:2%"/>
+  </a>
+  <img src="./featured_AIAA.gif" alt="AIAA Featured GIF" width="48%" height="250px"/>
 </p>
+
+---
 
 <p align="center">
   <b>🌊 Journal of Physical Oceanography (accepted)</b>:  
@@ -57,8 +62,12 @@
 </p>
 
 <p align="center">
+  <a href="https://arxiv.org/pdf/2311.01377">
+    <img src="./gibraltar_preview.png" alt="Gibraltar Paper Preview" width="48%" height="250px" style="margin-right:2%"/>
+  </a>
   <img src="./featured_Gibraltar.gif" alt="Gibraltar Forecasting GIF" width="48%" height="250px"/>
 </p>
+
 
 ---
 
