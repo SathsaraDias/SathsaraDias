@@ -83,8 +83,6 @@
 
 ## 📽 Featured Media
 
-## 📽 Featured Media
-
 <p align="center">
   <img src="./banner.png" alt="Full Banner" width="100%"/>
 </p>
